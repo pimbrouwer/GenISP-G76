@@ -193,5 +193,5 @@ As mentioned, the results could have been better with more training. But nonethe
 We enjoyed reproducing this paper and are quite happy to show that we managed to!
 
 ## Task divison
-Pim Brouwer was resposible for the image loading and preprocessing, dataset managment and training. Tim Geukers was resposible was responsible for the ConvWB, ConvCC and ConvShallow implementation. For the rest of the project we worked closely together and thus are both responsible for all other work. 
+Pim Brouwer was resposible for the image loading and preprocessing, dataset managment and training. Tim Geukers was responsible for the ConvWB, ConvCC and ConvShallow implementation. For the rest of the project we worked closely together and thus are both responsible for all other work. 
 
