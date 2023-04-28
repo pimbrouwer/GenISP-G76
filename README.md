@@ -1,5 +1,7 @@
 # GenISP-G76
 **Paper reproducibility project**  
+Pim Brouwer - 4670639  
+Tim Geukers - 4589718  
 The implementation shown in this GitHub is from scratch.  
 ## Introduction
 Object detection is a well known task in the practice of computer vision. A lot of off-the-self object detectors exist nowadays with amazingly high accuracy. However, object detection in low-light conditions still remains problematic. 
